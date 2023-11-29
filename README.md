@@ -27,6 +27,8 @@
     <td width="60%">
      
 ## 🛠 Skills
+ <img src="https://tecnologia-innovadora.com/wp-content/uploads/2022/02/que-hacer-para-convertirse-en-ingeniero-en-sistemas-desarrollador-de-sistemas-computacionales-programacion-informatica.gif" width="75%" align="right" />
+
 
 #### Languajes
 
