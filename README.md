@@ -1,87 +1,159 @@
-### Hola soy Elvis Flores👋
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Kaustav;Full+stack+web+developer...;Data+Science+Enthusiast...;Tech+Blogger...;Active+Open+Source+Contributor..."/>
- 
- <p>- <i>Soy estudiante universitario de Software aspirante a desarrollador de software. Me desempeño bien en un equipo. Estoy Apasionado por la codificación poniendo especial énfasis en escribir código de buena calidad. </i></p>
+<div align="center">
 
+# 👋 ¡Hola! Soy Elvis Flores
 
-<img src="https://repository.unad.edu.co/reproductor-ova/10596_35043/assets/images/slide8_1.gif" width="50%" align="right" />
+### 💻 Full Stack Developer | AI Enthusiast | Content Creator
 
-## ⚡🙋‍♂ Acerca de mí
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Bienvenido+a+mi+perfil+de+GitHub;Desarrollo+Software+y+Aplicaciones;Automatizo+Procesos+con+IA;Construyo+Soluciones+Digitales;Siempre+Aprendiendo+Algo+Nuevo" />
 
-</br>
-- 🔧 Actualmente estoy estudiando la carrera de ingeniería en Software
-- 💡 Tengo curiosidad de aprender acerca de ciberseguridad.
-- 📖 Actualmente estoy aprendiendo Reack .
-- ❄ Me gustaría poder colaborar en mas proyectos de código abierto 
-- 📫 Cómo comunicarse conmigo sebatfls@gmail.com
+<p>
 
+<a href="https://github.com/elvis0007">
+<img src="https://img.shields.io/github/followers/elvis0007?label=Followers&style=for-the-badge"/>
+</a>
 
-<hr>
+<a href="https://www.linkedin.com/in/elvis-flores-543954417">
+<img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin"/>
+</a>
 
-</br>
+<a href="https://www.instagram.com/elvis_flores07/">
+<img src="https://img.shields.io/badge/Instagram-Seguir-E4405F?style=for-the-badge&logo=instagram"/>
+</a>
 
+<a href="https://www.tiktok.com/@elvis_code07">
+<img src="https://img.shields.io/badge/TikTok-Elvis_Code-black?style=for-the-badge&logo=tiktok"/>
+</a>
 
-<table width="100%" >
+</p>
 
- <tr>
-    <td width="60%">
-     
-## 🛠 Skills
- <img src="https://tecnologia-innovadora.com/wp-content/uploads/2022/02/que-hacer-para-convertirse-en-ingeniero-en-sistemas-desarrollador-de-sistemas-computacionales-programacion-informatica.gif" width="75%" align="right" />
+</div>
 
+---
 
-#### Languajes
+# 🚀 Sobre mí
 
-![C#](https://img.shields.io/badge/C%23%20-%20azul)&nbsp;
-![Java](https://img.shields.io/badge/Java-%23150458.svg?style=flat&logo=java&logoColor=orange)&nbsp;
+Soy estudiante de **Ingeniería en Software** y desarrollador apasionado por crear soluciones tecnológicas que ayuden a personas y empresas a crecer.
 
+Actualmente desarrollo:
 
+- 🌐 Páginas web modernas
+- 📱 Aplicaciones
+- 🤖 Automatización con Inteligencia Artificial
+- ⚙️ Sistemas para negocios
+- 💻 Interfaces modernas enfocadas en la experiencia del usuario
 
-#### Development
-![Reactjs](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)&nbsp;     
+Mi objetivo es combinar desarrollo de software, diseño e inteligencia artificial para crear productos útiles y profesionales.
 
-#### Database
+---
 
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=green)
+# 💻 Tecnologías
 
-#### Tools and Technologies
+## Lenguajes
 
+- Java
+- C#
+- JavaScript
+- TypeScript
+- SQL
 
-![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
+## Frontend
 
-     
+- React
+- HTML5
+- CSS3
+- TailwindCSS
+- Bootstrap
 
+## Backend
 
+- Node.js
+- Express
+- .NET
 
+## Bases de Datos
 
-#### Cloud Infrastructures
+- PostgreSQL
+- MySQL
+- Firebase
+- Supabase
 
+## Herramientas
 
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)&nbsp;
+- Git
+- GitHub
+- VS Code
+- Docker
+- Linux
 
-#### Environments
-![Spyder](https://img.shields.io/badge/Spyder%20Ide-FF0000?style=flat&logo=spyder%20ide&logoColor=white)&nbsp;
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)&nbsp;
+---
 
+# 🎯 Actualmente
 
+- 📚 Estudiando Ingeniería en Software
+- 🚀 Creando proyectos personales
+- 🤖 Aprendiendo Inteligencia Artificial
+- 🔒 Explorando Ciberseguridad
+- 🌎 Compartiendo contenido tecnológico en **Elvis Code**
 
-</br>
+---
 
+# 📊 GitHub Stats
 
+<p align="center">
 
-<details>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=elvis0007&show_icons=true&theme=tokyonight"/>
 
-  <summary> <h3> https://github.com/elvis0007/elvis0007.github.io.git </h3> </summary>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=elvis0007&theme=tokyonight"/>
 
-  
-</details>
+</p>
 
+<p align="center">
 
-# Fururos repositorios🚀
-<img width="30%" src = "https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=Gamer-Hub"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvis0007&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🛠 Mis Proyectos
+
+Próximamente encontrarás aquí proyectos relacionados con:
+
+- 🌐 Desarrollo Web
+- 📱 Aplicaciones
+- 🤖 Inteligencia Artificial
+- 🏢 Sistemas Empresariales
+- ⚡ Automatización
+
+---
+
+# 🌎 Encuéntrame
+
+📧 **Correo**
+> (Tu correo profesional)
+
+💼 LinkedIn
+> https://www.linkedin.com/in/elvis-flores-543954417
+
+📷 Instagram
+> https://www.instagram.com/elvis_flores07/
+
+🎵 TikTok Personal
+> https://www.tiktok.com/@elvis_flores07
+
+💻 TikTok Tech
+> https://www.tiktok.com/@elvis_code07
+
+🐙 GitHub
+> https://github.com/elvis0007
+
+---
+
+<div align="center">
+
+## ⭐ "Convirtiendo ideas en soluciones digitales."
+
+</div>
 
 
 
